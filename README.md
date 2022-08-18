@@ -1,4 +1,4 @@
-# vuex-example
+# vuex-tree
 
 ## Project setup
 ```
